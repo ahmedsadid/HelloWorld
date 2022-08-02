@@ -10,7 +10,7 @@ Time spent: **5** hours spent in total
 
 The following **required** functionality is completed:
 
-* [x] Image and introductory message displayed on screen  [NOTE: May cause issues with emulator; image displays fine on real device]
+* [x] Image and introductory message displayed on screen
 * [x] Button displayed on screen
 * [x] Toast with message appears when button is pressed 
 
@@ -35,7 +35,7 @@ GIF created with [EZGIF](https://ezgif.com/) & OnePlus screen recorder.
 
 Describe any challenges encountered while building the app.
 
-* Emulator does not display the image. 
+* Initially faced issues with the emulator loading images. Fixed after changing emulator. 
 
 ## License
 
