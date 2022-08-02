@@ -4,7 +4,7 @@ Submitted by: **Zubayer Ahmed Sadid**
 
 **Woofing @ CodePath** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **5** hours spent in total
+Time spent: **~5-6** hours spent in total
 
 ## Required Features
 
